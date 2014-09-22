@@ -10,4 +10,4 @@ Source: [https://www.xkcd.com/1418/](https://www.xkcd.com/1418/)
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag ForceToHorse.crx into the page that appears.
