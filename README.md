@@ -5,7 +5,7 @@ Chrome extension that replaces occurrences of 'force' with 'horse'
 
 Source: [https://www.xkcd.com/1418/](https://www.xkcd.com/1418/)
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+[Direct download of crx file](https://github.com/burntcookie90/cloud-to-butt/raw/master/ForceToHorse.crx)
 
 Installation
 ------------
