@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "Force to Horse",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "Replaces the text (and it's alternatives) 'force' with 'horse'. Source: https://www.xkcd.com/1418/.",
 	"content_scripts": 
 	[
 		{
