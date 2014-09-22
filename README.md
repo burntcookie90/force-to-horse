@@ -1,4 +1,4 @@
-cloud-to-butt
+force-to-horse
 =============
 
 Chrome extension that replaces occurrences of 'force' with 'horse'
